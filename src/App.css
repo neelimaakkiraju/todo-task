@@ -5,7 +5,7 @@
 }
 
 .task-input {
-  margin: 10px 0;
+  margin: 20px 0;
 }
 
 input {
@@ -16,7 +16,7 @@ input {
 
 button {
   padding: 8px 12px;
-  background: #007bff;
+  background: #4d85c0;
   color: white;
   border: none;
   cursor: pointer;
