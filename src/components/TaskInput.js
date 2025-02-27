@@ -16,6 +16,7 @@ const TaskInput = ({ addTask }) => {
         placeholder="Add a task..."
         value={task}
         onChange={(e) => setTask(e.target.value)}
+        className="task-input"
       />
       <button onClick={handleAdd}>Add</button>
     </div>
